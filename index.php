@@ -7,7 +7,7 @@
         <meta name='robots' content='noindex, follow' />
 
     <!-- This site is optimized with the Yoast SEO plugin v22.3 - https://yoast.com/wordpress/plugins/seo/ -->
-    <title>#KuliahOnline &#8226; UNIVERSITAS TERBUKA ACEH</title>
+    <title>#KuliahOnline &#8226; UNIVERSITAS TERBUKA SERANG</title>
     <meta name="description" content="Universitas Terbuka Aceh - Perguruan Tinggi Negeri Pelopor Perkuliahan Online di Indonesia Dengan Biaya Terjangkau dan Terakreditasi | admisi-sia.ut.ac.id" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
